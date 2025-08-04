@@ -1,0 +1,15 @@
+/Users/lionprado/Desktop/-dcit318-assignment1-11125009/TicketPriceCalculator/bin/Debug/net6.0/TicketPriceCalculator
+/Users/lionprado/Desktop/-dcit318-assignment1-11125009/TicketPriceCalculator/bin/Debug/net6.0/TicketPriceCalculator.deps.json
+/Users/lionprado/Desktop/-dcit318-assignment1-11125009/TicketPriceCalculator/bin/Debug/net6.0/TicketPriceCalculator.runtimeconfig.json
+/Users/lionprado/Desktop/-dcit318-assignment1-11125009/TicketPriceCalculator/bin/Debug/net6.0/TicketPriceCalculator.dll
+/Users/lionprado/Desktop/-dcit318-assignment1-11125009/TicketPriceCalculator/bin/Debug/net6.0/TicketPriceCalculator.pdb
+/Users/lionprado/Desktop/-dcit318-assignment1-11125009/TicketPriceCalculator/obj/Debug/net6.0/TicketPriceCalculator.csproj.AssemblyReference.cache
+/Users/lionprado/Desktop/-dcit318-assignment1-11125009/TicketPriceCalculator/obj/Debug/net6.0/TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lionprado/Desktop/-dcit318-assignment1-11125009/TicketPriceCalculator/obj/Debug/net6.0/TicketPriceCalculator.AssemblyInfoInputs.cache
+/Users/lionprado/Desktop/-dcit318-assignment1-11125009/TicketPriceCalculator/obj/Debug/net6.0/TicketPriceCalculator.AssemblyInfo.cs
+/Users/lionprado/Desktop/-dcit318-assignment1-11125009/TicketPriceCalculator/obj/Debug/net6.0/TicketPriceCalculator.csproj.CoreCompileInputs.cache
+/Users/lionprado/Desktop/-dcit318-assignment1-11125009/TicketPriceCalculator/obj/Debug/net6.0/TicketPriceCalculator.dll
+/Users/lionprado/Desktop/-dcit318-assignment1-11125009/TicketPriceCalculator/obj/Debug/net6.0/refint/TicketPriceCalculator.dll
+/Users/lionprado/Desktop/-dcit318-assignment1-11125009/TicketPriceCalculator/obj/Debug/net6.0/TicketPriceCalculator.pdb
+/Users/lionprado/Desktop/-dcit318-assignment1-11125009/TicketPriceCalculator/obj/Debug/net6.0/TicketPriceCalculator.genruntimeconfig.cache
+/Users/lionprado/Desktop/-dcit318-assignment1-11125009/TicketPriceCalculator/obj/Debug/net6.0/ref/TicketPriceCalculator.dll
